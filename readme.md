@@ -8,3 +8,4 @@
 |`shell_basic_asm.py`|DreamHack|<a href="https://minnote.net/pwnable/DH-shell-basic/" target="_blank">minnote.net DH-shell-basic</a>|<a href="https://dreamhack.io/wargame/challenges/410/" target="_blank">challenges/410</a>|
 |`r2s.py`|DreamHack|<a href="https://minnote.net/pwnable/DH-Return-2-Shell/" target="_blank">minnote.net DH-Return-2-Shell</a>|<a href="https://dreamhack.io/wargame/challenges/352/" target="_blank">challenges/352</a>|
 |`sint.py`|DreamHack|<a href="https://minnote.net/pwnable/DH-sint/" target="_blank">minnote.net DH-sint</a>|<a href="https://dreamhack.io/wargame/challenges/25/" target="_blank">challenges/25</a>|
+|`basic_exploitation_000.py`|DreamHack|<a href="https://minnote.net/pwnable/DH-basic-exploit-000/" target="_blank">minnote.net DH-basic-exploit-000</a>|<a href="https://dreamhack.io/wargame/challenges/2/" target="_blank">challenges/2</a>|
